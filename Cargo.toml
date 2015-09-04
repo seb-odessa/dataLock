@@ -1,4 +1,4 @@
 [package]
-name = "dataLock"
+name = "data_lock"
 version = "0.1.0"
 authors = ["seb <seb@ukr.net>"]
